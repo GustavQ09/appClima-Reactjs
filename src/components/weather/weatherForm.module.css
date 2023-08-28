@@ -1,0 +1,19 @@
+.container {
+    margin: 10px 0;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 22px;
+    border: 0;
+    border-radius: 3px;
+
+  }
+  
+  .error {
+    color: red; /* Color rojo para el mensaje de error */
+    font-size: 14px; /* Tamaño de fuente */
+    margin-top: 5px; /* Margen superior para separar del campo de entrada */
+  }
